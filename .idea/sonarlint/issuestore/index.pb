@@ -14,3 +14,11 @@ D
 src/styles/Login.css,c/c/cc0c602ac51cca85763dcd9bb9978e9db10d8750
 I
 src/components/spotify.js,e/a/ea2634dec14931dcd9fd872dd5d0f0009f6b300b
+A
+public/index.html,f/4/f43ecdf8d666ee908aacce037b4cd72159e4741b
+9
+	yarn.lock,5/3/53585a096fe3a3b96321113856ae62602995a33b
+D
+public/manifest.json,4/2/42e89cd2213b9d5dfae4f63522702c623170d792
+H
+src/components/Player.js,5/f/5f15aa46686d19207af96798290580ea699a3c40
