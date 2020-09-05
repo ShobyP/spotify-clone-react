@@ -1,0 +1,10 @@
+:root{
+    --player-body-background: linear-gradient(rgb(91,87,115), rgba(0,0,0,1));
+    --player-text-color: white;
+}
+.player-body {
+    padding: 30px;
+    flex: 0.8;
+    background: var(--player-body-background);
+    color: var(--player-text-color);
+}
